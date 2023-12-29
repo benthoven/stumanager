@@ -1,0 +1,3 @@
+id 1name ÀîËÄ
+id 2name luck
+id 0name NULL
